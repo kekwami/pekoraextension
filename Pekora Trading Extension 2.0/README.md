@@ -3,7 +3,7 @@
 <img src="https://www.pekora.zip/images/thumbnails/1d1dbf7959ffe6f8a0519362224b17454c8c61568ca4f8725ec4f37e00b3cf65.png" width="100" height="100" />
 
 ## Update Logs:
-+ Recoded this entire extension to be compatible for all users, got rid of a ton of clunky unused logic
++ Recoded most of the old extension to be compatible for all users, got rid of a ton of clunky unused logic that was breaking it most of the time LOL
 + PLEASE NOTE: you need to refresh the page once or twice for values to populate due to Pekora's dynamically filled UI. The window will prompt you to refresh if it is needed.
 + p.s. wanted to get something basic out there for people to use for the time being, will add a ton of QOL features in the coming weeks! (sorry, had some finals this week >.<)
 
