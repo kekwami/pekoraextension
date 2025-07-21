@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Pekora Trade Enhancer",
-  "version": "1.0",
-  "description": "Enhances the trading experience for pekora.zip. Latest release: https://github.com/PekoraTrading/Trading-Extension-For-Pekora",
+  "version": "2.0",
+  "description": "Enhances the trading experience for pekora.zip. Check discord.gg/pekora for the latest versions.",
   "permissions": ["scripting", "activeTab"],
   "host_permissions": [
     "https://www.pekora.zip/*"
