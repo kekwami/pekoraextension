@@ -1,18 +1,20 @@
-# Trading-Extension-For-Pekora
+# Pekora Trading Extension
 
 <img src="https://www.pekora.zip/images/thumbnails/1d1dbf7959ffe6f8a0519362224b17454c8c61568ca4f8725ec4f37e00b3cf65.png" width="100" height="100" />
 
 ## Update Logs:
-+ Fixed an issue that prevented servers & groups from being viewed.
++ Recoded this entire extension to be compatible for all users, got rid of a ton of clunky unused logic
++ PLEASE NOTE: you need to refresh the page once or twice for values to populate due to Pekora's dynamically filled UI. The window will prompt you to refresh if it is needed.
++ p.s. wanted to get something basic out there for people to use for the time being, will add a ton of QOL features in the coming weeks! (sorry, had some finals this week >.<)
 
 ## What is this?
 
-An extension displays item values from a GitHub JSON and visualizes item stats on both the catalog page and trades in [pekora.zip](https://www.pekora.zip).
+An extension displays item values from a GitHub JSON and visualizes item stats on both the catalog page and trades in [pekora.zip](https://www.pekora.zip). Please contact @kekwami on discord with any suggestions or bug repots.
 
 ## Features
 
 * Fetches and displays item values from a GitHub-hosted JSON file.
-* Enhances the catalog and trade pages by visualizing item stats.
+* Enhances profile collections by displaying individual values and 
 
 <div style="display: flex; gap: 10px;">
     <img src="https://media.discordapp.net/attachments/1343173559131963454/1368162454378512405/image.png?ex=68173814&is=6815e694&hm=eec190957f9ba95e31cc59fa3f230380349957ac262f7465c5c214a196f2305e&=&format=webp&quality=lossless" style="width: 50%; height: 50%;" />
@@ -23,7 +25,7 @@ An extension displays item values from a GitHub JSON and visualizes item stats o
 
 ## Installation
 
-To install the **Trading Extension for Pekora**, follow the steps below:
+To install the extension, follow the steps below:
 
 <img src="https://cdn.discordapp.com/attachments/1364006085194813602/1368332890286460948/image.png?ex=6817d6cf&is=6816854f&hm=8aeffc911ea96150b522ac8c259124355a5c838f1c004d0e10d96f4de49ee8af&=&format=webp&quality=lossless" style="width: 50%; height: 50%;" />
 
@@ -43,8 +45,5 @@ To install the **Trading Extension for Pekora**, follow the steps below:
 ### 4. **Load the Extension**
 
 * Click on **Load unpacked**.
-* In the file explorer window, select the folder that you extracted and you're done.
+* In the file explorer window, select the trade extension folder that you extracted.
 
-### The Tutorial In a Nutshell
-
-<img src="https://cdn.discordapp.com/attachments/1330990091245588521/1368329778544902144/tut.png?ex=6817d3e9&is=68168269&hm=7417dd2c219dd0bf07a8e6bcaaeba8271c9b9c4a768e3587d286068dfe40a242&=&format=webp&quality=lossless" style="width: 50%; height: 50%;" />
