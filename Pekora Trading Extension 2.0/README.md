@@ -14,14 +14,7 @@ An extension displays item values from a GitHub JSON and visualizes item stats o
 ## Features
 
 * Fetches and displays item values from a GitHub-hosted JSON file.
-* Enhances profile collections by displaying individual values and 
-
-<div style="display: flex; gap: 10px;">
-    <img src="https://media.discordapp.net/attachments/1343173559131963454/1368162454378512405/image.png?ex=68173814&is=6815e694&hm=eec190957f9ba95e31cc59fa3f230380349957ac262f7465c5c214a196f2305e&=&format=webp&quality=lossless" style="width: 50%; height: 50%;" />
-    <img src="https://media.discordapp.net/attachments/1343173559131963454/1368162586650083379/image.png?ex=68173833&is=6815e6b3&hm=dd32eae6c7e771178749312dbd16c1d7a04c6d59f6f3849f0fedcc5764aaf999&=&format=webp&quality=lossless" style="width: 50%; height: 50%;" />
-    <img src="https://media.discordapp.net/attachments/1343173559131963454/1368162587002273844/image.png?ex=68173833&is=6815e6b3&hm=ca18304091f643f8bf6f107df23b92748290560c56d7d713eb1601b349565e9e&=&format=webp&quality=lossless" style="width: 50%; height: 50%;" />
-    <img src="https://cdn.discordapp.com/attachments/1330990091245588521/1368324952847286462/image.png?ex=6817cf6b&is=68167deb&hm=1176c2bfde77effcac4894b8df15048d93bd4dd32b34fe24be788039ebf5e056&=&format=webp&quality=lossless" style="width: 50%; height: 50%;" />
-</div>
+* Enhances profile collections by displaying individual values and a users total value count
 
 ## Installation
 
