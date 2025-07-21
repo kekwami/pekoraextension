@@ -20,8 +20,6 @@ An extension displays item values from a GitHub JSON and visualizes item stats o
 
 To install the extension, follow the steps below:
 
-<img src="https://cdn.discordapp.com/attachments/1364006085194813602/1368332890286460948/image.png?ex=6817d6cf&is=6816854f&hm=8aeffc911ea96150b522ac8c259124355a5c838f1c004d0e10d96f4de49ee8af&=&format=webp&quality=lossless" style="width: 50%; height: 50%;" />
-
 ### 1. **Download and Extract the Extension Folder**
 
 * Download the extension files from the repository.
