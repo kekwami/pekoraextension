@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Pekora Trade Enhancer",
+  "version": "1.0",
+  "description": "Enhances the trading experience for pekora.zip. Latest release: https://github.com/PekoraTrading/Trading-Extension-For-Pekora",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": [
+    "https://www.pekora.zip/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.pekora.zip/*",
+        "https://www.pekora.zip/My/Trades.aspx"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
