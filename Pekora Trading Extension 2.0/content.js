@@ -204,7 +204,6 @@
       }
     });
   }
-
   function waitForTradeModalAndEnhance() {
     let tries = 0;
     const maxTries = 20;
